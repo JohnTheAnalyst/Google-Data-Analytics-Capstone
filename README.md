@@ -14,14 +14,14 @@ with an excellent understanding and proficiency of platforms for
 effective data analyses, including SQL, Excel, Tableau, and R.
 
 ## Table of Contents
-* [Introduction](###Introduction)
-* [Ask: A clear statement of the business task](###Ask)
-* [Data preparation: A description of all data sources used](###Data)
-* [Data processing: Documentation of any cleaning or manipulation of data](###Processing)
-* [Analysis & Share: A summary analysis and key findings with Supporting visualizations](###Analysis)
-* [Act: Conclusion and top three recommendations based on my analysis](###Act)
+* [Introduction](#Introduction)
+* [Ask: A clear statement of the business task](#Ask)
+* [Data preparation: A description of all data sources used](#Data)
+* [Data processing: Documentation of any cleaning or manipulation of data](#Processing)
+* [Analysis & Share: A summary analysis and key findings with Supporting visualizations](#Analysis)
+* [Act: Conclusion and top three recommendations based on my analysis](#Act)
 
-### Introduction <a name="Introduction"></a>
+### Introduction
 
 This is my report on the Capstone Project of Google Data Analytics
 Professional Certificate. In this case study, I am working as a junior
