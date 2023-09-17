@@ -1,4 +1,4 @@
-![](images/logo.png "Bike-share")
+![](images/logo_Bike_Share.png "Bike-share")
 # Google Data Analytics Professional Certificate Capstone project
 
 ## Report on how annual members and casual riders use Cyclistic bikes differently
