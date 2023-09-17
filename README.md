@@ -1,5 +1,4 @@
-![https://divvybikes.com/](images/Divvy_Homepage_Explore_the_city.png "divvy bikes")
-source: divvybikes.com
+![](images/logo.png "Bike-share")
 # Google Data Analytics Professional Certificate Capstone project
 
 ## Report on how annual members and casual riders use Cyclistic bikes differently
