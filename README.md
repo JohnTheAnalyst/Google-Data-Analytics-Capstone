@@ -23,8 +23,7 @@ effective data analyses, including SQL, Excel, Power BI, Python and R.
 
 ### Introduction
 
-This is my report on the Capstone Project of Google Data Analytics
-Professional Certificate. In this case study, I am working as a junior
+In this case study, I am working as a junior
 data analyst in the marketing analyst team at Cyclistic, a fictional
 bike-share company in Chicago. The company features 5,824 bicycles and
 692 docking stations across Chicago. Cyclistic's customers are
