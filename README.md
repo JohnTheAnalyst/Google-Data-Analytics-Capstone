@@ -1,4 +1,4 @@
-[![https://divvybikes.com/](images/Divvy_Homepage_Explore_the_city_2x.webp "divvybikes")](https://images.ctfassets.net/p6ae3zqfb1e3/6WBgMKaffxQjhSwFmGvhx8/5e78d18fa9804ebfc813ce492520a4de/Divvy_Homepage_Explore_the_city_2x.png?w=1500&q=60&fm=webp)
+[![https://divvybikes.com/](images/Divvy_Homepage_Explore_the_city_2x.webp "divvybikes")]
 # Google Data Analytics Professional Certificate Capstone project
 
 ## Report on how annual members and casual riders use Cyclistic bikes differently
