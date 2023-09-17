@@ -650,7 +650,7 @@ ggplot(data = total_rides_per_month, mapping =  aes(x = year_month, y = total_ri
   ggtitle("Total Rides Per Month By User Type", subtitle = "November 2020 - October 2021 (1 year)") +
   theme_minimal()
 ```
-![](images/total_rides_per_month.png "total_rides_per_month")
+![](images/Total_rides_per_month.png "total_rides_per_month")
 
 [![weatherspark.com](images/Climate%20in%20Chicago.png "Climate in Chicago")](https://weatherspark.com/y/14091/Average-Weather-in-Chicago-Illinois-United-States-Year-Round)
 
@@ -739,7 +739,7 @@ ggplot(total_rides_per_st_hour, aes(x = starting_hour, y = total_rides, color = 
   ggtitle("Total Rides Per Starting Hour By User Type", subtitle = "November 2020 - October 2021 (1year)") +
   theme_bw()
 ```
-![](images/Total_rides_per_starting_hour.png "rides per starting hour")
+![](images/Total_rides_per_starting_hour.png "Total-rides-per-hour")
 
 Analysis: The standard business hours in the Loop are 8am-5pm local
 time. 5-5:30pm is the time when most people walk to a train/bus or take
