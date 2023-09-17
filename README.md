@@ -17,11 +17,11 @@ effective data analyses, including SQL, Excel, Tableau, and R.
 * [Introduction](###Introduction)
 * [Ask: A clear statement of the business task](###Ask)
 * [Data preparation: A description of all data sources used](###Data)
-* [Data processing: Documentation of any cleaning or manipulation of data](###Data)
+* [Data processing: Documentation of any cleaning or manipulation of data](###Processing)
 * [Analysis & Share: A summary analysis and key findings with Supporting visualizations](###Analysis)
 * [Act: Conclusion and top three recommendations based on my analysis](###Act)
 
-### Introduction
+### Introduction <a name="Introduction"></a>
 
 This is my report on the Capstone Project of Google Data Analytics
 Professional Certificate. In this case study, I am working as a junior
@@ -46,7 +46,7 @@ assumption that "Cyclistic's future success depends on maximizing the
 number of annual memberships" will follow. The tools used for this
 report are R and Tableau Public.
 
-### Ask: A clear statement of the business task
+### Ask: A clear statement of the business task <a name="Ask"></a>
 
 Until now, Cyclistic's marketing strategy relied on building general
 awareness and appealing to broad consumer segments, providing flexible
@@ -81,7 +81,7 @@ As mentioned above, Lilly Moreno has assigned me the first question to
 answer: How do annual members and casual riders use Cyclistic bikes
 differently? Thus, this report will exclusively cover question number 1.
 
-### Data preparation: A description of all data sources used
+### Data preparation: A description of all data sources used <a name="Data"></a>
 
 For the purposes of this case study, the data has been made available by
 Motivate International Inc. under this
@@ -266,7 +266,7 @@ glimpse(trips_data)
 introduce(trips_data)
 ```
 
-### Data processing: Documentation of any cleaning or manipulation of data
+### Data processing: Documentation of any cleaning or manipulation of data <a name="Processing"></a>
 
 #### Creation of new columns:
 
@@ -620,7 +620,7 @@ Creation of a new version for analysis
 trips_data_v3 <- trips_data_v2
 ```
 
-### Analysis & Share: A summary analysis and key findings with Supporting visualizations
+### Analysis & Share: A summary analysis and key findings with Supporting visualizations <a name="Analysis"></a>
 
 ```{r}
 diagnose(trips_data_v3)
@@ -927,7 +927,7 @@ write.csv(avg_ride_duration_per_user_type,"avg_ride_duration_per_user_type.csv",
 
 ![](images/AVG.png){width="1331"}
 
-### Act: Conclusion and top three recommendations based on my analysis
+### Act: Conclusion and top three recommendations based on my analysis <a name="Act"></a>
 
 Casual riders buy a Single Ride Pass or a Day Pass, additional data on
 the pass type would help me in expanding my findings and answer
