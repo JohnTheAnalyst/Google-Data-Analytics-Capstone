@@ -16,10 +16,10 @@ effective data analyses, including SQL, Excel, Tableau, and R.
 ## Table of Contents
 * [Introduction](###Introduction)
 * [Ask: A clear statement of the business task](###Ask)
-* [Data preparation: A description of all data sources used](###Data preparation: A description of all data sources used)
-* [Data processing: Documentation of any cleaning or manipulation of data](###Data processing: Documentation of any cleaning or manipulation of data)
-* [Analysis & Share: A summary analysis and key findings with Supporting visualizations](###Analysis & Share: A summary analysis and key findings with Supporting visualizations)
-* [Act: Conclusion and top three recommendations based on my analysis](###Act: Conclusion and top three recommendations based on my analysis)
+* [Data preparation: A description of all data sources used](###Data)
+* [Data processing: Documentation of any cleaning or manipulation of data](###Data)
+* [Analysis & Share: A summary analysis and key findings with Supporting visualizations](###Analysis)
+* [Act: Conclusion and top three recommendations based on my analysis](###Act)
 
 ### Introduction
 
