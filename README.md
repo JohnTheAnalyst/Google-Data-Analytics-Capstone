@@ -739,7 +739,7 @@ ggplot(total_rides_per_st_hour, aes(x = starting_hour, y = total_rides, color = 
   ggtitle("Total Rides Per Starting Hour By User Type", subtitle = "November 2020 - October 2021 (1year)") +
   theme_bw()
 ```
-![](images/total_rides_per_starting_hour.png "rides per starting hour")
+![](images/Total_rides_per_starting_hour.png "rides per starting hour")
 
 Analysis: The standard business hours in the Loop are 8am-5pm local
 time. 5-5:30pm is the time when most people walk to a train/bus or take
