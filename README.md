@@ -13,6 +13,14 @@ research projects. Furthermore, I am a Google-certified data analyst
 with an excellent understanding and proficiency of platforms for
 effective data analyses, including SQL, Excel, Tableau, and R.
 
+## Table of Contents
+* [Introduction](###Introduction)
+* [Ask: A clear statement of the business task](###Ask: A clear statement of the business task)
+* [Data preparation: A description of all data sources used](###Data preparation: A description of all data sources used)
+* [Data processing: Documentation of any cleaning or manipulation of data](###Data processing: Documentation of any cleaning or manipulation of data)
+* [Analysis & Share: A summary analysis and key findings with Supporting visualizations](###Analysis & Share: A summary analysis and key findings with Supporting visualizations)
+* [Act: Conclusion and top three recommendations based on my analysis](###Act: Conclusion and top three recommendations based on my analysis)
+
 ### Introduction
 
 This is my report on the Capstone Project of Google Data Analytics
