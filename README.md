@@ -493,6 +493,7 @@ nrow(trips_data_v2)
 ```{r, fig.align='center'}
 plot_missing(trips_data_v2)
 ```
+![](images/missing_values_Rplot.png "NA")
 
 Create a NA dataframe for a close look of the data and further
 evaluation
@@ -649,6 +650,7 @@ ggplot(data = total_rides_per_month, mapping =  aes(x = year_month, y = total_ri
   ggtitle("Total Rides Per Month By User Type", subtitle = "November 2020 - October 2021 (1 year)") +
   theme_minimal()
 ```
+![](images/total_rides_per_month.png "total_rides_per_month")
 
 [![weatherspark.com](images/Climate%20in%20Chicago.png "Climate in Chicago")](https://weatherspark.com/y/14091/Average-Weather-in-Chicago-Illinois-United-States-Year-Round)
 
@@ -697,6 +699,7 @@ ggplot(total_rides_per_day_of_week, aes(x = day_of_week, y = total_rides, fill =
   ggtitle("Total Rides Per Day of The Week By User Type", subtitle = "November 2020 - October 2021 (1year)") +
   theme_minimal()
 ```
+![](images/total_rides_per_day_of_week.png "rides_per_day_of_the_week")
 
 Analysis: From Monday to Friday there are more Member rides than Casual
 rides. There is a significant increase of casual rides on Friday but
@@ -736,6 +739,7 @@ ggplot(total_rides_per_st_hour, aes(x = starting_hour, y = total_rides, color = 
   ggtitle("Total Rides Per Starting Hour By User Type", subtitle = "November 2020 - October 2021 (1year)") +
   theme_bw()
 ```
+![](images/total_rides_per_starting_hour.png "rides per starting hour")
 
 Analysis: The standard business hours in the Loop are 8am-5pm local
 time. 5-5:30pm is the time when most people walk to a train/bus or take
@@ -787,6 +791,7 @@ ggplot(avg_ride_duration_per_day_of_week, aes(x = day_of_week, y = avg_ride_dura
   ggtitle("Average Ride Duration Per Day Of The Week By User Type In Minutes", subtitle = "November 2020 - October 2021 (1year)") +
   theme_minimal()
 ```
+![](images/Average_ride_duration_per_day_of_the_week.png "Average")
 
 Analysis: On average, members take rides of about 13 minutes during the
 week and 15 minutes on the weekends, while casual rides on average take
