@@ -791,7 +791,7 @@ ggplot(avg_ride_duration_per_day_of_week, aes(x = day_of_week, y = avg_ride_dura
   ggtitle("Average Ride Duration Per Day Of The Week By User Type In Minutes", subtitle = "November 2020 - October 2021 (1year)") +
   theme_minimal()
 ```
-![](images/Average_ride_duration_per_day_of_the_week.png "Average")
+![](images/Average_ride_duration_per_day_of_the_week.png "Average ride duration per day")
 
 Analysis: On average, members take rides of about 13 minutes during the
 week and 15 minutes on the weekends, while casual rides on average take
@@ -819,6 +819,7 @@ ggplot(avg_ride_duration_per_st_hour, aes(x = starting_hour, y = avg_ride_durati
   ggtitle("Average Ride Duration Per User Type In Minutes", subtitle = "November 2020 - October 2021 (1year)") +
   theme_bw()
 ```
+![](images/avg_ride_duration_per_st_hour.png "Average ride duration per starting Hour")
 
 Analysis: Casuals riders take longer rides than members because most of
 them explore the city while most members pursue an objective when taking
