@@ -11,7 +11,7 @@ I acquired concepts and techniques in Financial control, budgeting,
 strategic planning, and experience in carrying out analytical work and
 research projects. Furthermore, I am a Google-certified data analyst
 with an excellent understanding and proficiency of platforms for
-effective data analyses, including SQL, Excel, Power BI, Python and R.
+effective data analyses, including SQL, Excel, Power BI, Python, Tableau and R.
 
 ## Table of Contents
 * [Introduction](#Introduction)
