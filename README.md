@@ -819,7 +819,7 @@ ggplot(avg_ride_duration_per_st_hour, aes(x = starting_hour, y = avg_ride_durati
   ggtitle("Average Ride Duration Per User Type In Minutes", subtitle = "November 2020 - October 2021 (1year)") +
   theme_bw()
 ```
-![](images/avg_ride_duration_per_st_hour.png "Average ride duration per starting Hour")
+![](images/avg_ride_duration_per_st_hour.png "Average ride duration per starting hour")
 
 Analysis: Casuals riders take longer rides than members because most of
 them explore the city while most members pursue an objective when taking
